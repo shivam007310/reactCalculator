@@ -1,12 +1,13 @@
-import styles from "./App.module.css";
 import Display from "./components/displayBox";
-import buttons from "./components/buttonItems";
+import ButtonsContainer from "./components/ButtonsContainer";
+import styles from "./App.module.css";
 
 function App() {
   return (
     <div className={styles.calculator}>
+      <center>CAL</center>
       <Display></Display>
-      <buttons></buttons>
+      <ButtonsContainer></ButtonsContainer>
     </div>
   );
 }

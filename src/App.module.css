@@ -1,5 +1,6 @@
 .calculator {
-  border: 2px solid rgb(61, 24, 24);
+  border: 4px solid rgb(73, 34, 34);
+  width: 200px;
   border-radius: 5px;
-  width: 300px;
+  background-color: rgb(100, 104, 104);
 }

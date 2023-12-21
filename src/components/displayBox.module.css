@@ -1,8 +1,7 @@
 .display {
-  width: 90%;
-  padding: 5px;
+  margin: 10px;
+  width: 175px;
   font-size: 25px;
-  border-radius: 10px;
-  margin-left: 8px;
-  margin-top: 12px;
+  border: 2px solid rgb(155, 76, 70);
+  background-color: rgb(199, 158, 143);
 }
